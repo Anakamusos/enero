@@ -1,0 +1,42 @@
+h1.title{
+    text-align: center;
+}
+div.groc{
+    background-color: yellow;
+    color: yellow;
+    display: inline;
+    min-width: 33%;
+    height: 100px;
+}
+div.blau{
+    background-color: blue;
+    color: blue;
+    display: inline;
+    min-width: 33%;
+    height: 100px;
+}
+div.roig{
+    background-color: red;
+    color: red;
+    display: inline;
+    min-width: 33%;
+    height: 100px;
+}
+nav.flex{
+    display: flex;
+}
+div.mapa{
+    display: inline-block;
+}
+div.video{
+    display: inline-block;
+}
+.verd{
+    background-color: green;
+    color: green;
+    min-width: 33%;
+    line-height: 100px;
+}
+span.pau{
+    background-color: yellow;
+}
