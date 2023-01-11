@@ -38,6 +38,8 @@ div.video{
     line-height: 100px;
 }
 span.pau{
-    background-color: yellow;
     text-decoration: underline;
+}
+footer{
+    background-color: yellow;
 }
